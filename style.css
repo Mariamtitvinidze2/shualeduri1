@@ -42,7 +42,7 @@ body {
 
 .text1 {
       
-    font-family:normal;
+    font-family:"Hanken Grotesk";
     font-size: 24px;
     font-weight: 700;
     line-height: 31.27px;
@@ -60,7 +60,7 @@ body {
     background-color: #4D21C9;
     color: white;
     border-radius: 100px;
-    font-family:normal;
+    font-family: "Hanken Grotesk";
     font-size: 72px;
     font-weight: 800;
     line-height: 72px;
@@ -73,7 +73,7 @@ body {
    }
 
    .text2 {
-    font-family: Hanken Grotesk;
+    font-family:"Hanken Grotesk";
     font-size: 32px;
     font-weight: 700;
     line-height: 41.7px;
@@ -89,7 +89,7 @@ body {
     } 
 
    .text3 {
-    font-family: Hanken Grotesk;
+    font-family: "Hanken Grotesk";
     font-size: 18px;
     font-weight: 500;
     line-height: 23.45px;
@@ -124,7 +124,7 @@ body {
 .text4 {
     width: 104px;
     height: 31px;
-    font-family: normal;
+    font-family:"Hanken Grotesk";
     font-size: 24px;
     font-weight: 700;
     line-height: 31.27px;
@@ -161,7 +161,7 @@ top: 17px;
 left: 48px;
 gap: 0px;
 opacity: 0px;
-font-family: Hanken Grotesk;
+font-family:"Hanken Grotesk";
 font-size: 18px;
 font-weight: 500;
 line-height: 23.45px;
@@ -177,7 +177,7 @@ top: 17px;
 left: 200px;
 gap: 0px;
 opacity: 0px;
-font-family: Hanken Grotesk;
+font-family:"Hanken Grotesk";
 font-size: 18px;
 font-weight: 700;
 line-height: 23.45px;
@@ -199,7 +199,7 @@ padding: 15px;
 
 .memory {
    
-font-family: Hanken Grotesk;
+font-family:"Hanken Grotesk";
 font-size: 18px;
 font-weight: 500;
 line-height: 23.45px;
@@ -237,7 +237,7 @@ color: #303B59;
 }
 
 .verbal {
-   font-family: Hanken Grotesk;
+   font-family:"Hanken Grotesk";
 font-size: 18px;
 font-weight: 500;
 line-height: 23.45px;
@@ -280,7 +280,7 @@ color: #303B59;
     left: 48px;
     gap: 0px;
     opacity: 0px;
-    font-family: Hanken Grotesk;
+    font-family:"Hanken Grotesk";
     font-size: 18px;
     font-weight: 500;
     line-height: 23.45px;
@@ -315,7 +315,7 @@ justify-content: center;
 .continue {
     width: 75px;
     height: 23px;
-    font-family: normal;
+    font-family:"Hanken Grotesk";
     font-size: 18px;
     font-weight: 700;
     line-height: 23.45px;
